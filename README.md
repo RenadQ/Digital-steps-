@@ -29,3 +29,9 @@ To use the Digital Steps program, follow these steps:
 3. **Choose Your Learning Path**: Upon logging in, users can select their desired learning path, whether they are beginners, intermediate learners, or advanced programmers.
 4. **Start Learning**: Dive into the interactive content, complete exercises, and earn rewards as you progress through the Java programming curriculum.
 
+
+
+
+## Potential Impact
+
+The Digital Steps program aims to make learning Java programming more accessible, enjoyable, and effective for a wide range of users, from computer science students to hobbyist programmers. By incorporating game-based elements and adaptive learning features, the program has the potential to increase interest and proficiency in Java.
